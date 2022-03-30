@@ -1,0 +1,22 @@
+
+body{
+    background-image: url("../img/sus.gif");
+    width: 1px;
+    height: 1px;
+
+}
+.tr{
+    font-size: 40px;
+}
+
+H1{
+    padding-left: 8%;
+    font-size: 70px;
+    padding-top: 2%;
+
+}
+
+table{
+    background-color: red;
+     
+}
