@@ -1,22 +1,20 @@
-
-body{
-    background-image: url("../img/sus.gif");
-    width: 1px;
-    height: 1px;
-
+#textP
+{
+ margin-top: 30px;
+ font-size: 25px;
+ text-align: center;
 }
-.tr{
-    font-size: 40px;
-}
-
-H1{
-    padding-left: 8%;
-    font-size: 70px;
-    padding-top: 2%;
-
+#textP1
+{
+ margin-top: 70px;
+ font-size: 25px;
+ text-align: center;
 }
 
-table{
-    background-color: red;
-     
-}
+
+
+/* #logo{
+    width: 200px;
+    height: 300px;
+    align-content: center;
+} */
