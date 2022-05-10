@@ -43,3 +43,8 @@ body{
     text-align: left;
 }
 
+.reloj { 
+    border: 1px solid black;
+    padding: 3px;
+    float: right; 
+    }
